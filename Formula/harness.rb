@@ -2,7 +2,7 @@ class Harness < Formula
   desc "Minimal agent loop in bash"
   homepage "https://github.com/wedow/harness"
   url "https://github.com/wedow/harness/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "b1b9fe7824a9da3446318972758ce09f1b13a0d6c6868cc5c1831c76e99a2d4d"
+  sha256 "8b4b0e6c550c2a49f9b6c4e02ade379b39ef3a15ec140b62fa6f2667efcbc154"
   license "MIT"
 
   depends_on "bash"
